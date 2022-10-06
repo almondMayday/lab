@@ -18,4 +18,6 @@
       end
     else 
       print (d1,'.',m1);
+  if md>mm then
+    print(mm);
 end.
